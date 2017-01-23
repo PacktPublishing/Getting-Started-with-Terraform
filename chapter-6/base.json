@@ -1,0 +1,24 @@
+{
+  "builders": [
+    {
+      "ami_name": "centos-7-base-puppet-{{timestamp}}",
+      "type": "amazon-ebs",
+      "region": "eu-central-1",
+      "source_ami": "ami-9bf712f4",
+      "instance_type": "t2.micro",
+      "ssh_username": "centos",
+      "vpc_id": "vpc-c23af8ab",
+      "subnet_id": "subnet-5f22f536",
+      "ssh_pty": true
+    }
+  ],
+  "provisioners": [
+    {
+      "type": "shell",
+      "inline": [
+        "sudo rpm -ivh http://yum.puppetlabs.com/puppetlabs-release-el-7.noarch.rpm",
+        "sudo yum install puppet -y"
+      ]
+    }
+  ]
+}
