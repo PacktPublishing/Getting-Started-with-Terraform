@@ -23,6 +23,3 @@ Internet connectivity is required to install the necessary tools, including Terr
 * [Enterprise Application Architecture with .NET Core](https://www.packtpub.com/application-development/enterprise-application-architecture-net-core?utm_source=github&utm_medium=repository&utm_campaign=9781786468888)
 
 * [Building Bluetooth Low Energy (BLE) Systems](https://www.packtpub.com/hardware-and-creative/building-bluetooth-low-energy-ble-systems?utm_source=github&utm_medium=repository&utm_campaign=9781786461087)
-
-###Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
