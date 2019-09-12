@@ -8,7 +8,7 @@ resource "aws_instance" "hello-instance" {
   ami           = "ami-9bf712f4"
   instance_type = "t2.micro"
 
-  tags {
+  tags = {
     Name = "hello-instance"
   }
 }
