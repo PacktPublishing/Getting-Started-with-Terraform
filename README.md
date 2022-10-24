@@ -23,3 +23,7 @@ Internet connectivity is required to install the necessary tools, including Terr
 * [Enterprise Application Architecture with .NET Core](https://www.packtpub.com/application-development/enterprise-application-architecture-net-core?utm_source=github&utm_medium=repository&utm_campaign=9781786468888)
 
 * [Building Bluetooth Low Energy (BLE) Systems](https://www.packtpub.com/hardware-and-creative/building-bluetooth-low-energy-ble-systems?utm_source=github&utm_medium=repository&utm_campaign=9781786461087)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786465108">https://packt.link/free-ebook/9781786465108 </a> </p>
